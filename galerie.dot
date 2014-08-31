@@ -1,0 +1,55 @@
+digraph G {
+	PageAccueil [shape=box,style=rounded];
+	PageListeAquarelle [shape=box,style=rounded];
+	PageEditListeAquarelle [shape=box,style=rounded];
+	PageDetailAquarelle [shape=box,style=rounded];
+	PageSaisieAquarelle [shape=box,style=rounded];
+	PageUddateAquarelle [shape=box,style=rounded];
+	Consulter [color=lightgrey,style=filled];
+	Editer [color=lightgrey,style=filled];
+	ModeEdit [color=lightgrey,style=filled];
+	ModeConsult [color=lightgrey,style=filled];
+	Add [color=lightgrey,style=filled];
+	Edit [color=lightgrey,style=filled];
+	Delete [color=lightgrey,style=filled];
+	Enregistrer [color=lightgrey,style=filled];
+	Annuler [color=lightgrey,style=filled];
+	Home [color=lightgrey,style=filled];
+	RetourALaListe [color=lightgrey,style=filled];
+	VoirDetail [color=lightgrey,style=filled];
+	{rank = same; Consulter; Editer};
+	{rank = same; ModeEdit; ModeConsult};
+	{rank = same; Add; Edit; Delete};
+	
+	
+	PageAccueil -> Consulter [style=dotted];
+	Consulter -> PageListeAquarelle;
+	PageAccueil -> Editer [style=dotted];
+	PageEditListeAquarelle -> Add [style=dotted];
+	PageEditListeAquarelle -> ModeConsult [style=dotted];
+	ModeConsult -> PageListeAquarelle;
+	Add -> PageSaisieAquarelle; 
+	PageEditListeAquarelle -> Edit  [style=dotted];
+	Edit -> PageUddateAquarelle; 
+	PageEditListeAquarelle -> Delete  [style=dotted];
+	Delete -> PageEditListeAquarelle;
+	PageEditListeAquarelle -> Home  [style=dotted];
+	Home -> PageAccueil;
+
+	PageSaisieAquarelle -> Enregistrer  [style=dotted];
+	Enregistrer -> PageEditListeAquarelle;
+	PageSaisieAquarelle -> Annuler  [style=dotted];
+	Annuler -> PageEditListeAquarelle;
+
+	PageUddateAquarelle -> Enregistrer  [style=dotted];
+	PageUddateAquarelle -> Annuler  [style=dotted];
+
+	PageDetailAquarelle -> RetourALaListe  [style=dotted];
+	RetourALaListe -> PageListeAquarelle;
+	PageListeAquarelle -> Home [style=dotted];
+	PageListeAquarelle -> VoirDetail  [style=dotted];
+	PageListeAquarelle -> ModeEdit  [style=dotted];
+	ModeEdit -> PageEditListeAquarelle;
+	VoirDetail -> PageDetailAquarelle;
+	Editer -> PageEditListeAquarelle;
+}

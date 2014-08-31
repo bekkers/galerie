@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="project" default="dot">
+	<property name="prefixe" value="galerie"/>
+	<property name="format" value="jpg"/>
+
+    <target name="dot" >
+    	<exec executable="dot">
+    		<arg value="-T${format}"/>
+    		<arg file="${prefixe}.dot"/>
+    		<arg value="-o"/>
+    		<arg file="${prefixe}.${format}"/>
+    	</exec>
+    	<!-- this build shoud be run in the same JVM as eclipse 
+    	to do so "context menu for the ant file>run Ant ..."
+    	then in the jre tab, select "run in the same jvm as eclipse"
+    	-->
+    	<eclipse.refreshLocal resource="galerie" depth="infinite"/>        
+    </target>
+
+
+</project>

@@ -1,0 +1,176 @@
+<galerie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="galerie.xsd" next-id="21">
+	<aquarelle name="biserica" gps="45.841821,24.957129" date="2014-03-03"
+		id="1" title="Eglise orthodoxe, Biserica Sfinții Cozma și Damian">
+		<adresse voie="Strada Doamna Stanca" ville="Făgăraș"
+			codePostal="505200" pays="Roumanie" />
+		<photo name="DSC_20082.JPG" />
+		<photo name="DSC_20083.JPG" />
+		<photo name="DSC_20084.JPG" />
+		<photo name="DSC_20085.JPG" />
+		<photo name="DSC_20086.JPG" />
+		<photo name="DSC_20087.JPG" />
+		<photo name="DSC_20088.JPG" />
+		<photo name="DSC_20089.JPG" />
+		<photo name="DSC_20090.JPG" />
+		<photo name="DSC_20091.JPG" />
+		<photo name="DSC_20093.JPG" />
+		<photo name="DSC_20094.JPG" />
+		<photo name="DSC_20095.JPG" />
+		<photo name="DSC_20082.JPG" />
+		<photo name="DSC_20097.JPG" />
+		<photo name="DSC_20098.JPG" />
+		<photo name="DSC_20099.JPG" />
+		<photo name="DSC_20099.JPG" />
+		<photo name="DSC_20100.JPG" />
+		<photo name="DSC_20101.JPG" />
+		<photo name="DSC_20102.JPG" />
+		<photo name="DSC_20103.JPG" />
+		<photo name="DSC_20104.JPG" />
+
+	</aquarelle>
+	<aquarelle name="charette" date="2014-03-03" id="2"
+		title="Quelque part, sur une route roumaine, une charette">
+		<photo name="decharge.jpg" />
+		<photo name="DSC_10122.JPG" />
+		<photo name="leMarché.jpg" />
+		<photo name="P1000478.JPG" />
+		<photo name="randonnee_equestre_transylvanie.jpg" />
+
+	</aquarelle>
+	<aquarelle name="placeCentraleSighisoara" gps="46.21993,24.792339"
+		date="2014-03-03" id="3"
+		title="Place centrale de Sighisoara, vue sur la tour de l'horloge">
+		<adresse voie="Piața Cetății" ville="Sighișoara" codePostal="545400"
+			pays="Roumanie" />
+		<photo name="DSC_20263.JPG" />
+		<photo name="DSC_20264.JPG" />
+		<photo name="DSC_20271.JPG" />
+		<photo name="DSC_20274.JPG" />
+		<photo name="DSC_20276.JPG" />
+		<photo name="DSC_20273.JPG" />
+		<photo name="DSC_20321.JPG" />
+		<photo name="DSC_20320.JPG" />
+		<photo name="DSC09027-300x200.jpg" />
+		<photo name="PICT2962.jpg" />
+		<photo name="sighisoara.jpg" />
+		<photo name="slide48.jpg" />
+
+	</aquarelle>
+	<aquarelle name="rempartsSighisoara" gps="46.221211,24.79222"
+		date="2014-03-03" id="4"
+		title="Sur le remparts de Sighisoara, près de la tour des cordonniers">
+		<adresse voie="strada Zidul Cetãtii" ville="Sighisoara"
+			codePostal="545400" pays="Roumanie" />
+		<photo name="DSC_20283.JPG" />
+		<photo name="DSC_20284.JPG" />
+		<photo name="DSC_20286.JPG" />
+		<photo name="DSC_20085.JPG" />
+		<photo name="DSC_20287.JPG" />
+		<photo name="DSC_20288.JPG" />
+		<photo name="DSC_20289.JPG" />
+		<photo name="DSC_20290.JPG" />
+		<photo name="DSC_20291.JPG" />
+
+	</aquarelle>
+	<aquarelle name="roms" gps="45.737323,22.90543" date="2014-03-03"
+		id="5" title="Palais des Gitans Roumains">
+		<adresse voie="Villa Luis Piedone, strada Rotarilor" ville="Hunedoara"
+			pays="Roumanie" />
+		<photo name="DSC_10010.JPG" />
+		<photo name="DSC_10011.JPG" />
+		<photo name="DSC_10012.JPG" />
+		<photo name="DSC_10013.JPG" />
+		<photo name="DSC_10014.JPG" />
+		<photo name="DSC_10015.JPG" />
+		<photo name="DSC_10016.JPG" />
+		<photo name="DSC_10017.JPG" />
+		<photo name="DSC_10018.JPG" />
+		<photo name="DSC_10093.JPG" />
+		<photo name="DSC_10094.JPG" />
+		<photo name="DSC_10095.JPG" />
+		<photo name="DSC_10096.JPG" />
+		<photo name="DSC_10097.JPG" />
+		<photo name="DSC_10098.JPG" />
+		<photo name="DSC_10099.JPG" />
+		<photo name="DSC_10100.JPG" />
+
+	</aquarelle>
+
+	<aquarelle name="sibiu" gps="45.794201,24.150225" date="2014-03-03"
+		id="6" title="Dans une rue du centre de Sibiu">
+		<adresse voie="19 strada Nicolae Balicescu" ville="Sibiu"
+			pays="Roumanie" />
+		<photo name="DSC_20026.JPG" />
+		<photo name="DSC_20026.JPG" />
+		<photo name="DSC_20034.JPG" />
+		<photo name="DSC_20035.JPG" />
+		<photo name="DSC_20036.JPG" />
+
+	</aquarelle>
+	<aquarelle name="maisonRueDeFougeres" title="Maison bourgoise du quartier de fougères"
+		date="1997-03-04" id="7" gps="48.120735,-1.66472">
+		<adresse voie="135 rue de fougères" ville="Rennes" pays="France" codePostal="35700"/>
+		<photo name="2014-04-24 12.13.46.jpg" />
+		<photo name="2014-04-24 12.14.27.jpg" />
+
+	</aquarelle>
+	<aquarelle name="chapelleNC_USA"
+		title="Une chapelle dans la campagne de Caroline du nord aux USA"
+		date="1995-05-04" id="8" />
+	<aquarelle name="oceanIle" gps="34.702535,-76.740058"
+		title="maisons dans Ocean Ile, près de More Head City sur la cote de Caroline du nord"
+		date="1995-05-04" id="9" />
+	<aquarelle name="maisonColonialeRaleigh" gps="35.782283,-78.631626"
+		title="maison Coloniale dans le centre historique de Raleigh, Caroline du nord"
+		date="1995-05-04" id="10">
+		<adresse voie="513 E Jones St" ville="Raleigh" codePostal="NC 27601"
+			pays="États-Unis" />
+	</aquarelle>
+	<aquarelle name="maisonCarry"
+		title="Notre maison à Carry NC USA pendant l'année 1995" date="1995-04-04"
+		id="11" gps="35.759511,-78.790342">
+		<adresse voie="408 Glen Bonnie Ln" ville="Cary" codePostal="NC 27511"
+			pays="États-Uni" />
+	</aquarelle>
+	<aquarelle name="moreHeadCity" gps="34.720028,-76.708258"
+		title="Le port de More Head City sur la cote de Caroline du nord"
+		date="1995-05-04" id="12" />
+	<aquarelle name="autoPortrait" title="auto portait d'après photo"
+		date="1997-01-04" id="13" />
+
+	<aquarelle name="nuAuChapeau" title="Anna au chapeau" date="1997-02-12"
+		id="14" />
+	<aquarelle name="ksarMarocain" title="ksar ait ben haddou, vallée de l’Ounila"
+		date="1997-08-04" id="15" gps="31.0466834,-7.1298266">
+		<adresse voie="Ksar Aït-ben-Haddou" ville="Aït Ben Haddou"
+			pays="Maroc" />
+		<photo name="1214392.jpg" />
+		<photo name="1214455.jpg" />
+		<photo name="480421.jpg" />
+		<photo name="87176449.jpg" />
+		<photo name="87390090.jpg" />
+		<photo name="87390131.jpg" />
+		<!-- https://ssl.panoramio.com/user/701296?show=all ☮Ronan 56 countries☮ -->
+	</aquarelle>
+	<aquarelle name="chaussure" title="chaussure" date="1998-08-04"
+		id="16" />
+	<aquarelle name="bordDeRance" title="Les bords de Rance"
+		date="1998-08-04" id="17" />
+	<aquarelle name="nus"
+		title="Natacha pose pour Annick qui fait une sculture" date="1997-08-04"
+		id="18" />
+	<aquarelle name="nu2" title="Natacha pose pour Annick bis"
+		date="1997-08-04" id="19" />
+
+    <aquarelle name="ecoleRuePapu" title="Face arrière de l'ancienne école primaire de la rue Papu" 
+        gps="48.11144,-1.692886" date="2014-08-09" id="20">
+        <photo name="DSC_0039.JPG"/>
+         <photo name="DSC_0041.JPG"/>
+         <photo name="DSC_0084.JPG"/>
+         <photo name="DSC_0090.JPG"/>
+         <photo name="rue-papu.jpg"/>
+    </aquarelle>
+	
+
+</galerie>
