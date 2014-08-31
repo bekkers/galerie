@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iso-3166 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="isoCountryCode.xsd">
+	<pays name="AFGHANISTAN" code="AF" />
+	<pays name="AFRIQUE DU SUD" code="ZA" />
+	<pays name="ÅLAND, ÎLES" code="AX" />
+	<pays name="ALBANIE" code="AL" />
+	<pays name="ALGERIE" code="DZ" />
+	<pays name="ALLEMAGNE" code="DE" />
+	<pays name="ANDORRE" code="AD" />
+	<pays name="ANGOLA" code="AO" />
+	<pays name="ANGUILLA" code="AI" />
+	<pays name="ANTARCTIQUE" code="AQ" />
+	<pays name="ANTIGUA ET BARBUDA" code="AG" />
+	<pays name="ARABIE SAOUDITE" code="SA" />
+	<pays name="ARGENTINE" code="AR" />
+	<pays name="ARMENIE" code="AM" />
+	<pays name="ARUBA" code="AW" />
+	<pays name="AUSTRALIE" code="AU" />
+	<pays name="AUTRICHE" code="AT" />
+	<pays name="AZERBAIDJAN" code="AZ" />
+	<pays name="BAHAMAS" code="BS" />
+	<pays name="BAHREIN" code="BH" />
+	<pays name="BANGLADESH" code="BD" />
+	<pays name="BARBADE" code="BB" />
+	<pays name="BELARUS" code="BY" />
+	<pays name="BELGIQUE" code="BE" />
+	<pays name="BELIZE" code="BZ" />
+	<pays name="BENIN" code="BJ" />
+	<pays name="BERMUDES" code="BM" />
+	<pays name="BHOUTAN" code="BT" />
+	<pays name="BOLIVIE, l'ETAT PLURINATIONAL DE" code="BO" />
+	<pays name="BONAIRE, SAINT-EUSTACHE ET SABA" code="BQ" />
+	<pays name="BOSNIE-HERZEGOVINE" code="BA" />
+	<pays name="BOTSWANA" code="BW" />
+	<pays name="BOUVET, ILE" code="BV" />
+	<pays name="BRESIL" code="BR" />
+	<pays name="BRUNEI DARUSSALAM" code="BN" />
+	<pays name="BULGARIE" code="BG" />
+	<pays name="BURKINA FASO" code="BF" />
+	<pays name="BURUNDI" code="BI" />
+	<pays name="CAIMANES, ILES" code="KY" />
+	<pays name="CAMBODGE" code="KH" />
+	<pays name="CAMEROUN" code="CM" />
+	<pays name="CANADA" code="CA" />
+	<pays name="CAP-VERT" code="CV" />
+	<pays name="CENTRAFRICAINE, REPUBLIQUE" code="CF" />
+	<pays name="CHILI" code="CL" />
+	<pays name="CHINE" code="CN" />
+	<pays name="CHRISTMAS, ILE" code="CX" />
+	<pays name="CHYPRE" code="CY" />
+	<pays name="COCOS (KEELING), ILES" code="CC" />
+	<pays name="COLOMBIE" code="CO" />
+	<pays name="COMORES" code="KM" />
+	<pays name="CONGO" code="CG" />
+	<pays name="CONGO, LA REPUBLIQUE DEMOCRATIQUE DU" code="CD" />
+	<pays name="COOK, ILES" code="CK" />
+	<pays name="COREE, REPUBLIQUE DE" code="KR" />
+	<pays name="COREE, REPUBLIQUE POPULAIRE DEMOCRATIQUE DE" code="KP" />
+	<pays name="COSTA RICA" code="CR" />
+	<pays name="COTE D'IVOIRE" code="CI" />
+	<pays name="CROATIE" code="HR" />
+	<pays name="CUBA" code="CU" />
+	<pays name="CURACAO" code="CW" />
+	<pays name="DANEMARK" code="DK" />
+	<pays name="DJIBOUTI" code="DJ" />
+	<pays name="DOMINICAINE, REPUBLIQUE" code="DO" />
+	<pays name="DOMINIQUE" code="DM" />
+	<pays name="EGYPTE" code="EG" />
+	<pays name="EL SALVADOR" code="SV" />
+	<pays name="EMIRATS ARABES UNIS" code="AE" />
+	<pays name="EQUATEUR" code="EC" />
+	<pays name="ERYTHREE" code="ER" />
+	<pays name="ESPAGNE" code="ES" />
+	<pays name="ESTONIE" code="EE" />
+	<pays name="ETATS-UNIS" code="US" />
+	<pays name="ETHIOPIE" code="ET" />
+	<pays name="FALKLAND, ILES (MALVINAS)" code="FK" />
+	<pays name="FEROE, ILES" code="FO" />
+	<pays name="FIDJI" code="FJ" />
+	<pays name="FINLANDE" code="FI" />
+	<pays name="FRANCE" code="FR" />
+	<pays name="GABON" code="GA" />
+	<pays name="GAMBIE" code="GM" />
+	<pays name="GEORGIE" code="GE" />
+	<pays name="GEORGIE DU SUD ET LES ILES SANDWICH DU SUD" code="GS" />
+	<pays name="GHANA" code="GH" />
+	<pays name="GIBRALTAR" code="GI" />
+	<pays name="GRECE" code="GR" />
+	<pays name="GRENADE" code="GD" />
+	<pays name="GROENLAND" code="GL" />
+	<pays name="GUADELOUPE" code="GP" />
+	<pays name="GUAM" code="GU" />
+	<pays name="GUATEMALA" code="GT" />
+	<pays name="GUERNESEY" code="GG" />
+	<pays name="GUINEE" code="GN" />
+	<pays name="GUINEE-BISSAU" code="GW" />
+	<pays name="GUINEE EQUATORIALE" code="GQ" />
+	<pays name="GUYANA" code="GY" />
+	<pays name="GUYANE FRANCAISE" code="GF" />
+	<pays name="HAITI" code="HT" />
+	<pays name="HEARD, ILE ET MCDONALD, ILES" code="HM" />
+	<pays name="HONDURAS" code="HN" />
+	<pays name="HONG KONG" code="HK" />
+	<pays name="HONGRIE" code="HU" />
+	<pays name="ILE DE MAN" code="IM" />
+	<pays name="ILES MINEURES ELOIGNEES DES ETATS-UNIS" code="UM" />
+	<pays name="ILES VIERGES BRITANNIQUES" code="VG" />
+	<pays name="ILES VIERGES DES ETATS-UNIS" code="VI" />
+	<pays name="INDE" code="IN" />
+	<pays name="INDONESIE" code="ID" />
+	<pays name="IRAN, REPUBLIQUE ISLAMIQUE D'" code="IR" />
+	<pays name="IRAQ" code="IQ" />
+	<pays name="IRLANDE" code="IE" />
+	<pays name="ISLANDE" code="IS" />
+	<pays name="ISRAEL" code="IL" />
+	<pays name="ITALIE" code="IT" />
+	<pays name="JAMAIQUE" code="JM" />
+	<pays name="JAPON" code="JP" />
+	<pays name="JERSEY" code="JE" />
+	<pays name="JORDANIE" code="JO" />
+	<pays name="KAZAKHSTAN" code="KZ" />
+	<pays name="KENYA" code="KE" />
+	<pays name="KIRGHIZISTAN" code="KG" />
+	<pays name="KIRIBATI" code="KI" />
+	<pays name="KOWEIT" code="KW" />
+	<pays name="LAO, REPUBLIQUE DEMOCRATIQUE POPULAIRE" code="LA" />
+	<pays name="LESOTHO" code="LS" />
+	<pays name="LETTONIE" code="LV" />
+	<pays name="LIBAN" code="LB" />
+	<pays name="LIBERIA" code="LR" />
+	<pays name="LIBYENNE, JAMAHIRIYA ARABE" code="LY" />
+	<pays name="LIECHTENSTEIN" code="LI" />
+	<pays name="LITUANIE" code="LT" />
+	<pays name="LUXEMBOURG" code="LU" />
+	<pays name="MACAO" code="MO" />
+	<pays name="MACEDOINE, L'EX-REPUBLIQUE YOUGOSLAVE DE" code="MK" />
+	<pays name="MADAGASCAR" code="MG" />
+	<pays name="MALAISIE" code="MY" />
+	<pays name="MALAWI" code="MW" />
+	<pays name="MALDIVES" code="MV" />
+	<pays name="MALI" code="ML" />
+	<pays name="MALTE" code="MT" />
+	<pays name="MARIANNES DU NORD, ILES" code="MP" />
+	<pays name="MAROC" code="MA" />
+	<pays name="MARSHALL, ILES" code="MH" />
+	<pays name="MARTINIQUE" code="MQ" />
+	<pays name="MAURICE" code="MU" />
+	<pays name="MAURITANIE" code="MR" />
+	<pays name="MAYOTTE" code="YT" />
+	<pays name="MEXIQUE" code="MX" />
+	<pays name="MICRONESIE, ETATS FEDERES DE" code="FM" />
+	<pays name="MOLDOVA, REPUBLIQUE DE" code="MD" />
+	<pays name="MONACO" code="MC" />
+	<pays name="MONGOLIE" code="MN" />
+	<pays name="MONTENEGRO" code="ME" />
+	<pays name="MONTSERRAT" code="MS" />
+	<pays name="MOZAMBIQUE" code="MZ" />
+	<pays name="MYANMAR" code="MM" />
+	<pays name="NAMIBIE" code="NA" />
+	<pays name="NAURU" code="NR" />
+	<pays name="NEPAL" code="NP" />
+	<pays name="NICARAGUA" code="NI" />
+	<pays name="NIGER" code="NE" />
+	<pays name="NIGERIA" code="NG" />
+	<pays name="NIUE" code="NU" />
+	<pays name="NORFOLK, ILE" code="NF" />
+	<pays name="NORVEGE" code="NO" />
+	<pays name="NOUVELLE-CALEDONIE" code="NC" />
+	<pays name="NOUVELLE-ZELANDE" code="NZ" />
+	<pays name="OCEAN INDIEN, TERRITOIRE BRITANNIQUE DE L'" code="IO" />
+	<pays name="OMAN" code="OM" />
+	<pays name="OUGANDA" code="UG" />
+	<pays name="OUZBEKISTAN" code="UZ" />
+	<pays name="PAKISTAN" code="PK" />
+	<pays name="PALAOS" code="PW" />
+	<pays name="PALESTINIEN OCCUPE, TERRITOIRE" code="PS" />
+	<pays name="PANAMA" code="PA" />
+	<pays name="PAPOUASIE-NOUVELLE-GUINEE" code="PG" />
+	<pays name="PARAGUAY" code="PY" />
+	<pays name="PAYS-BAS" code="NL" />
+	<pays name="PEROU" code="PE" />
+	<pays name="PHILIPPINES" code="PH" />
+	<pays name="PITCAIRN" code="PN" />
+	<pays name="POLOGNE" code="PL" />
+	<pays name="POLYNESIE FRANCAISE" code="PF" />
+	<pays name="PORTO RICO" code="PR" />
+	<pays name="PORTUGAL" code="PT" />
+	<pays name="QATAR" code="QA" />
+	<pays name="REUNION" code="RE" />
+	<pays name="ROUMANIE" code="RO" />
+	<pays name="ROYAUME-UNI" code="GB" />
+	<pays name="RUSSIE, FEDERATION DE" code="RU" />
+	<pays name="RWANDA" code="RW" />
+	<pays name="SAHARA OCCIDENTAL" code="EH" />
+	<pays name="SAINT-BARTHELEMY" code="BL" />
+	<pays name="SAINTE-HELENE, ASCENSION ET TRISTAN DA CUNHA" code="SH" />
+	<pays name="SAINTE-LUCIE" code="LC" />
+	<pays name="SAINT-KITTS-ET-NEVIS" code="KN" />
+	<pays name="SAINT-MARIN" code="SM" />
+	<pays name="SAINT-MARTIN (PARTIE FRANCAISE)" code="MF" />
+	<pays name="SAINT-MARTIN (PARTIE NEERLANDAISE)" code="SX" />
+	<pays name="SAINT-PIERRE-ET-MIQUELON" code="PM" />
+	<pays
+		name="&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;SAINT-SIEGE (ETAT DE LA CITE DU VATICAN)&#10;&#9;&#9;&#9;"
+		code="VA" />
+	<pays name="SAINT-VINCENT-ET-LES GRENADINES" code="VC" />
+	<pays name="SALOMON, ILES" code="SB" />
+	<pays name="SAMOA" code="WS" />
+	<pays name="SAMOA AMERICAINES" code="AS" />
+	<pays name="SAO TOME-ET-PRINCIPE" code="ST" />
+	<pays name="SENEGAL" code="SN" />
+	<pays name="SERBIE" code="RS" />
+	<pays name="SEYCHELLES" code="SC" />
+	<pays name="SIERRA LEONE" code="SL" />
+	<pays name="SINGAPOUR" code="SG" />
+	<pays name="SLOVAQUIE" code="SK" />
+	<pays name="SLOVENIE" code="SI" />
+	<pays name="SOMALIE" code="SO" />
+	<pays name="SOUDAN" code="SD" />
+	<pays name="SRI LANKA" code="LK" />
+	<pays name="SUEDE" code="SE" />
+	<pays name="SUISSE" code="CH" />
+	<pays name="SURINAME" code="SR" />
+	<pays name="SVALBARD ET ILE JAN MAYEN" code="SJ" />
+	<pays name="SWAZILAND" code="SZ" />
+	<pays name="SYRIENNE, REPUBLIQUE ARABE" code="SY" />
+	<pays name="TADJIKISTAN" code="TJ" />
+	<pays name="TAIWAN, PROVINCE DE CHINE" code="TW" />
+	<pays name="TANZANIE, REPUBLIQUE-UNIE DE" code="TZ" />
+	<pays name="TCHAD" code="TD" />
+	<pays name="TCHEQUE, REPUBLIQUE" code="CZ" />
+	<pays name="TERRES AUSTRALES FRANCAISES" code="TF" />
+	<pays name="THAILANDE" code="TH" />
+	<pays name="TIMOR-LESTE" code="TL" />
+	<pays name="TOGO" code="TG" />
+	<pays name="TOKELAU" code="TK" />
+	<pays name="TONGA" code="TO" />
+	<pays name="TRINITE-ET-TOBAGO" code="TT" />
+	<pays name="TUNISIE" code="TN" />
+	<pays name="TURKMENISTAN" code="TM" />
+	<pays name="TURKS ET CAIQUES, ILES" code="TC" />
+	<pays name="TURQUIE" code="TR" />
+	<pays name="TUVALU" code="TV" />
+	<pays name="UKRAINE" code="UA" />
+	<pays name="URUGUAY" code="UY" />
+	<pays name="VANUATU" code="VU" />
+	<pays name="VENEZUELA, REPUBLIQUE BOLIVARIENNE DU" code="VE" />
+	<pays name="VIET NAM" code="VN" />
+	<pays name="WALLIS ET FUTUNA" code="WF" />
+	<pays name="YEMEN" code="YE" />
+	<pays name="ZAMBIE" code="ZM" />
+	<pays name="ZIMBABWE" code="ZW" />
+</iso-3166>
