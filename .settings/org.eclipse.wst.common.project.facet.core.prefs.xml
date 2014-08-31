@@ -1,0 +1,7 @@
+<root>
+  <facet id="jpt.jaxb">
+    <node name="classgen">
+      <attribute name="package" value="fr.bekkers.galerie.server.domain"/>
+    </node>
+  </facet>
+</root>
